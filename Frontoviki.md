@@ -9,6 +9,8 @@ macOS 12.2.1, 16 gb ОЗУ, экран 13,3-дюймовый (2560 × 1600) Goog
     - Samsung Galaxy s8+
     - Iphone 12 pro
 
+А так же Iphone 13 pro с Safari на ios 15.3s
+
 Что у нас есть и на что стоит обратить внимание:
 
 1. Общий ui/ux 
