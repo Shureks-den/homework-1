@@ -1,9 +1,13 @@
-# Тестирование проекта "Vochock" команды Frontoвики
+# Тестирование проекта "Volchock" команды Frontoвики
 
 Ссылка на Jira: https://jira.vk.team/browse/VKEDU-5
 
 Окружение:
 macOS 12.2.1, 16 gb ОЗУ, экран 13,3-дюймовый (2560 × 1600) Google Chrome Версия 99.0.4844.51 (Официальная сборка), (arm64)
+
+Для мобильной версии использовался режим отладки в Google Chrome с dimensions:
+    - Samsung Galaxy s8+
+    - Iphone 12 pro
 
 Что у нас есть и на что стоит обратить внимание:
 
